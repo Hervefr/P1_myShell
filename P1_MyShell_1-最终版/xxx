@@ -1,0 +1,14 @@
+bison.tab.c
+bison.tab.h
+bison.y
+execute.c
+execute.c~
+execute.o
+flex.l
+global.h
+lex.yy.c
+makefile
+README.md
+user-sh
+xxx
+ysh.conf
